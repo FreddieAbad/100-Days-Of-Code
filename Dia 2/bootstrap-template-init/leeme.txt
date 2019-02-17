@@ -1,0 +1,3 @@
+INSTRUCCIONES
+Abrir Linea de Comando
+C:\ ... \bootstrap-template-init\ > npm start
