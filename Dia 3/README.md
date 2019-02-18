@@ -1,7 +1,7 @@
 # Dia 3 - Javascript orientado a objetos
-##Fuente
+## Fuente
 https://www.youtube.com/watch?v=nqre9kKFRpc
-##Resultados
-###Agregar
+## Resultados
+### Agregar
 
-###Eliminar
+### Eliminar
