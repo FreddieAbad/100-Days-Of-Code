@@ -1,4 +1,4 @@
-# Dia 3 - Javascript orientado a objetos
+# Dia 3 - Javascript Orientado a Objetos
 ## Fuente
 https://www.youtube.com/watch?v=nqre9kKFRpc
 ## Resultados
