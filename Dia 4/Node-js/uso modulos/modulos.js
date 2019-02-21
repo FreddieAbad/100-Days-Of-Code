@@ -36,3 +36,6 @@ fs.readFile('./texto.txt', function (err, data) {
     }
     console.log(data.toString())
 })
+
+
+//FILESISTEM

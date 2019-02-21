@@ -1,0 +1,23 @@
+{
+  "name": "uso-modulos",
+  "version": "1.0.1",
+  "description": "Curso de Prueba Nodejs",
+  "main": "modulos.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node servidores.js",
+    "desarrollo": "node servidores.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "espanol",
+    "git"
+  ],
+  "author": "Freddy Abad",
+  "license": "ISC"
+}
