@@ -15,3 +15,10 @@ Todos los dias, una hora de codigo
     Concepto de Funcion Flecha en Javascript 
     function(){} es semejante a ()=>{}, sin embargo, la funcion flecha es mas "comoda"
     Fuente: https://www.youtube.com/watch?v=BhvLIzVL8_o&t=926s
+## Dia 5 
+    Patron MVC
+    ExpressJs
+        Routing - Middleware - Configuration
+    Gestor de Plantilla EJS
+    Fuente: https://www.youtube.com/watch?v=8eg4w8v076w
+    
