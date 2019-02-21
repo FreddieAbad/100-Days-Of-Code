@@ -8,3 +8,4 @@ console.log(math.multiply(3, 4));
 console.log(math.divide(3, 15));
 
 // HTMLFormControlsCollection.log(math);
+math.hola('Jpse');

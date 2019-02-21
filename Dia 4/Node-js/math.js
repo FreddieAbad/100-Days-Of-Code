@@ -18,14 +18,20 @@ function divide(x1, x2) {
         return x1 / x2;
 }
 
+function hola(nombre) {
+    console.log('Hola', nombre);
+}
 
 
 //Objeto para exportar
-exports.add= add;
-exports.substract= substract;
-exports.multiply= multiply;
-exports.divide= divide;
+exports.add = add;
+exports.substract = substract;
+exports.multiply = multiply;
+exports.divide = divide;
 //exportar funciones como un objeto
 // const Math1={};
 // Math1.substract=substract;
 // module.exports = Math1;
+
+
+exports.hola = hola;
