@@ -25,3 +25,7 @@ exports.add= add;
 exports.substract= substract;
 exports.multiply= multiply;
 exports.divide= divide;
+//exportar funciones como un objeto
+// const Math1={};
+// Math1.substract=substract;
+// module.exports = Math1;
