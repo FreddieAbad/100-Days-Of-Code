@@ -22,3 +22,11 @@ Todos los dias, una hora de codigo
     Gestor de Plantilla EJS
     Fuente: https://www.youtube.com/watch?v=8eg4w8v076w
     
+#Dia 6
+    CSS Avanzado
+    Sequelize - Nodejs - Express
+#Dia 7/8/9
+    Proyecto Personal (Al terminarlo publicare el codigo )
+    Sequelize, Nodejs, Postman, Postgresql, Bootstrap, Restful Api, Javascript, CRUD, RestfulApi, jQuery, CSS, CleanCode 
+#Dia 10
+    CRUD Sequelize, Nodejs, postgresql, expressjs
