@@ -30,3 +30,6 @@ Todos los dias, una hora de codigo
     Sequelize, Nodejs, Postman, Postgresql, Bootstrap, Restful Api, Javascript, CRUD, RestfulApi, jQuery, CSS, CleanCode 
 ## Dia 10
     CRUD Sequelize, Nodejs, postgresql, expressjs
+## Dia 10
+    CRUD Sequelize, Nodejs, postgresql, expressjs
+    Based in: https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api#ch4
