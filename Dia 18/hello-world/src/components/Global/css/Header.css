@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+.Menu{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.Menu li{
+  display: inline-block;
+  padding-right: 10px;
+}

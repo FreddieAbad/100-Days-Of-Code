@@ -30,11 +30,15 @@ Todos los dias, una hora de codigo
     Sequelize, Nodejs, Postman, Postgresql, Bootstrap, Restful Api, Javascript, CRUD, RestfulApi, jQuery, CSS, CleanCode 
 ## Dia 10
     CRUD Sequelize, Nodejs, postgresql, expressjs
-## Dia 10
+## Dia 11/18
     CRUD Sequelize, Nodejs, postgresql, expressjs
     Based in: https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api#ch4
 
 ## Dia 18
-    REACTJs
+    REACTJs - Inicio de Proyecto
     Finalizacion del Video 1 y 2
     Based in: https://www.youtube.com/watch?v=wf3aaKAmoW8&list=PLeWI3XlFEVOX6jACDygzApsvigQiDrun8&index=2
+
+## Dia 19
+    Finalizacion Video 3
+    https://www.youtube.com/watch?v=Fltqv-TKbFY&list=PLeWI3XlFEVOX6jACDygzApsvigQiDrun8&index=3
