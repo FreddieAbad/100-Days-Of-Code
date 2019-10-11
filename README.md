@@ -33,3 +33,8 @@ Todos los dias, una hora de codigo
 ## Dia 10
     CRUD Sequelize, Nodejs, postgresql, expressjs
     Based in: https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api#ch4
+
+## Dia 18
+    REACTJs
+    Finalizacion del Video 1 y 2
+    Based in: https://www.youtube.com/watch?v=wf3aaKAmoW8&list=PLeWI3XlFEVOX6jACDygzApsvigQiDrun8&index=2
