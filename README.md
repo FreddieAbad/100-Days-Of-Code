@@ -42,3 +42,8 @@ Todos los dias, una hora de codigo
 ## Dia 19
     Finalizacion Video 3
     https://www.youtube.com/watch?v=Fltqv-TKbFY&list=PLeWI3XlFEVOX6jACDygzApsvigQiDrun8&index=3
+
+## Dia 20
+    Finalizacion Video 4
+    Calculadora, funciones y uso de clases/constructores
+    https://www.youtube.com/watch?v=MJTaTCbzl5M&list=PLeWI3XlFEVOX6jACDygzApsvigQiDrun8&index=4
